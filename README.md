@@ -11,8 +11,7 @@ or publisher.
 
 ## Where it stands (2026-11-25)
 
-Tested on one machine only: Windows 11, Intel i9-12900K, 64 GB RAM, Radeon
-RX 7900 XTX, 1440p, the Series X profile.
+Tested on one machine only: Windows 11, AMD-Ryzen-5700X3D, 32 GB RAM, Radeon 9070XT, 1440p, the Series X profile.
 
 | | |
 |---|---|
